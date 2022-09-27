@@ -38,6 +38,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 1. [Basics](Lecture-1.js)
     - Keywords : var, let, const
     - sum of two numbers
+    -Multiplication of two numbers
 2. [Conditionals](Lecture-2.js)
     - Conditionals (if else, switch case)
 
@@ -46,7 +47,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 
 1. [Devkant Swargiary](https://github.com/Devkant21/)
 2. [Bhargab Baruah](https://github.com/Bhargabbaruah/)
-3. [Washiul islam]
+3. [Washiul Islam](https://github.com/Rashob)
 
 
 *We would love to have you as a contributor. 
