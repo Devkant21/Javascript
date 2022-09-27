@@ -45,6 +45,8 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 ## Contributors :
 
 1. [Devkant Swargiary](https://github.com/Devkant21/)
+2. [Bhargab Baruah](https://github.com/Bhargabbaruah/)
+3. [Washiul islam]
 
 
 *We would love to have you as a contributor. 
