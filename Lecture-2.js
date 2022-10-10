@@ -1,6 +1,10 @@
-// Expression Statements
-f_name = "John Doe"
-greeting = "Hello " + f_name // space after Hello signifies the space between the two strings
+// let i, j, sum =0;
+// for(i=0, j=10; i<10; i++, j--) 
+// {
 
-console.log(greeting)
+//     sum += i * j;
+// }
+//     console.log(sum)
 
+let i=0
+console.log("i")
