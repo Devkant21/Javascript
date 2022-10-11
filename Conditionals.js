@@ -12,6 +12,3 @@ else{
 console.log("Done");
 
 
-//ternary operator
-
-console.log("you can", a<18? "not" : "enter");
