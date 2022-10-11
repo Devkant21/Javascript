@@ -35,12 +35,31 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
     git push <branch_name>
 **The following are the list of topics :**
 
-1. [Basics](Lecture-1.js)
+1. [Basics](Basics.js)
     - Keywords : var, let, const
     - sum of two numbers
     - Multiplication of two numbers
-2. [Conditionals](Lecture-2.js)
+2. [Conditionals](Conditionals.js)
     - Conditionals (if else, switch case)
+
+3. [Data types](Data_types.js)
+    - NULL 
+    - NUMBER 
+    - BULLEAN 
+    - BIGINT 
+    - STRING 
+    - SYMBOL 
+    - UNDIFINED
+    
+
+4. [Operators & Expression](Expression&Operatoros.js)
+    - Asignment operators 
+    - Comparison operators
+    - Logical operators
+    - Ternary operator
+
+5. [Function](function.js)
+    - Area of Rectangle
 
 
 ## Contributors :

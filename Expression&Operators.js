@@ -56,7 +56,7 @@ Assignment**=5
 
 console.log( Assignment);
 
-//Comporasion Operators
+//Comparison Operators
 
 comp1=5;
 comp2=9;
@@ -78,4 +78,8 @@ let lo1=4;  lo2=5;
 console.log(lo1<lo2 && lo1==4);
 console.log(lo1>lo2 && lo1==4);
 console.log(lo1<lo2 || lo1!=4);
+
+//ternary operator
+
+console.log("you can", a<18? "not" : "enter");
 
