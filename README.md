@@ -20,7 +20,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
     ```
     >example : 
     ```
-    git add Lecture-1.js
+    git add Lecture.js
     ```
 5. Add the commit message
     ```
@@ -45,15 +45,15 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 3. [Data types](Data_types.js)
     - NULL 
     - NUMBER 
-    - BULLEAN 
+    - BOOLEAN 
     - BIGINT 
     - STRING 
     - SYMBOL 
-    - UNDIFINED
+    - UNDEFINED
     
 
 4. [Operators & Expression](Expression&Operatoros.js)
-    - Asignment operators 
+    - Assignment operators 
     - Comparison operators
     - Logical operators
     - Ternary operator
