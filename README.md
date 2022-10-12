@@ -68,6 +68,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 2. [Bhargab Baruah](https://github.com/Bhargabbaruah/)
 3. [Washiul Islam](https://github.com/Rashob)
 4. [Ridip Ranjan Deka](https://github.com/ridipranjandeka)
+5. [Aditi Roy](https://github.com/aditiroy11)
 
 
 
