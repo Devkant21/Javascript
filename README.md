@@ -74,6 +74,8 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 8. [Pritam Barman](https://github.com/PritamBarman98)
 9. [Paragjyoti phukan](https://github.com/PJPhukan)
 
+9. [Soumik B Bhuyan](https://github.com/soumikbhuyan9)
+
 
 *We would love to have you as a contributor. 
 Please star the repository*
