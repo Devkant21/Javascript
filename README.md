@@ -72,6 +72,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 6. [Debojani Chowdhury](https://github.com/debojani23)
 7. [Krishi Pratim Sarma](https://github.com/Krishi34S)
 8. [Pritam Barman](https://github.com/PritamBarman98)
+11.[bhabesh baro](https://github.com/bhabeshbaro)
 
 
 
