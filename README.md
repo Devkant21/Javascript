@@ -77,6 +77,11 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 11. [bhabesh baro](https://github.com/bhabeshbaro)
 
 
+14. [Manash Pratim Kalita](https://github.com/Manash05)
+
+
+
+
 
 *We would love to have you as a contributor. 
 Please star the repository*
