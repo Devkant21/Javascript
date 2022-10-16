@@ -76,9 +76,6 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 10. [Soumik Bhuyan](https://github.com/soumikbhuyan9)
 11. [bhabesh baro](https://github.com/bhabeshbaro)
 
-1
-
-15. [Abinash Kalita](https://github.com/Abinashkalita)
 
 
 *We would love to have you as a contributor. 
