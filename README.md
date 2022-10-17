@@ -30,7 +30,7 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
     ```
     git remote add <branch_name> <your forrked repo address>
     ```
-7. 
+7. push the commits by:
     ```
     git push <branch_name>
 **The following are the list of topics :**
@@ -73,8 +73,8 @@ This repository aims to teach **JavaScript** from scratch to an advanced level.
 7. [Krishi Pratim Sarma](https://github.com/Krishi34S)
 8. [Pritam Barman](https://github.com/PritamBarman98)
 9. [Paragjyoti phukan](https://github.com/PJPhukan)
-10. [Soumik B Bhuyan](https://github.com/soumikbhuyan9)
-11. [bhabesh baro](https://github.com/bhabeshbaro)
+10. [Soumik Bhuyan](https://github.com/soumikbhuyan9)
+11. [Bhabesh Baro](https://github.com/bhabeshbaro)
 
 
 14. [Manash Pratim Kalita](https://github.com/Manash05)
